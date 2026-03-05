@@ -12,7 +12,13 @@ Pulse Health is a patient-focused healthcare application that simplifies the pro
 - **Richard Whittington** - [GitHub](https://github.com/kilted2000)
 - **Shaina Bowser** - [GitHub](https://github.com/poisonivy91)
 - **Lynjai Jimenez** - [GitHub](https://github.com/IntermediaDesigns)
-- **Christopher Ament** - [GitHub](https://github.com/KelseyProgrammer) 
+- **Christopher Ament** - [GitHub](https://github.com/KelseyProgrammer)
+
+- ## My Contributions (Shaina Bowser)
+- Designed and implemented Appwrite database schema (users, providers, appointments) aligned to frontend requirements.
+- Imported and maintained provider dataset (100+ records) to support dynamic provider search.
+- Supported backend integration and debugging by validating API responses and permissions in Appwrite/Postman.
+- Collaborated in Agile sprints using GitHub (PRs/branches), Discord, and Figma to align backend and UI flows.
 
 ## 🛠️ Tech Stack
 
