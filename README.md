@@ -2,6 +2,10 @@
 
 A modern community health clinic application focused on streamlining patient care and appointment management.
 
+Role: Backend & QA Support (API Testing, Data Validation, Integration)
+
+A team-based healthcare application where I contributed to backend validation, API testing, and provider data integration using Appwrite and Postman.
+
 ## 🎯 Project Overview
 
 Pulse Health is a patient-focused healthcare application that simplifies the process of finding providers, booking appointments, and managing medical information. Our MVP prioritizes the patient experience with an intuitive, accessible interface.
@@ -17,8 +21,9 @@ Pulse Health is a patient-focused healthcare application that simplifies the pro
 - ## My Contributions (Shaina Bowser)
 - Designed and implemented Appwrite database schema (users, providers, appointments) aligned to frontend requirements.
 - Imported and maintained provider dataset (100+ records) to support dynamic provider search.
-- Supported backend integration and debugging by validating API responses and permissions in Appwrite/Postman.
+- Validated API responses, permissions, and data flows using Appwrite and Postman to identify and resolve backend issues.
 - Collaborated in Agile sprints using GitHub (PRs/branches), Discord, and Figma to align backend and UI flows.
+- Focused on ensuring data accuracy and system reliability across core user flows.
 
 ## 🛠️ Tech Stack
 
