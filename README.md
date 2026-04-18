@@ -6,6 +6,8 @@ Role: Backend & QA Support (API Testing, Data Validation, Integration)
 
 A team-based healthcare application where I contributed to backend validation, API testing, and provider data integration using Appwrite and Postman.
 
+This fork highlights my individual contributions to backend validation, API testing, and system integration within a team-based application.
+
 ## 🎯 Project Overview
 
 Pulse Health is a patient-focused healthcare application that simplifies the process of finding providers, booking appointments, and managing medical information. Our MVP prioritizes the patient experience with an intuitive, accessible interface.
